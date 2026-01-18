@@ -1,0 +1,26 @@
+#main {
+  height: 100dvh;
+  width: 100dvw;
+  position: absolute;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto;
+  justify-items: center;
+  justify-content: center;
+}
+
+#resrcGraph {
+  background-color: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(14px) saturate(140%);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  height: calc(100dvh - 1em - 16px - 5%);
+  width: calc(100dvw - 5%);
+  border: 5px solid rgba(0, 0, 0, 0.7);
+  border-radius: 1em;
+  
+  display: flex;
+  align-content: baseline;
+  justify-content: baseline;
+}

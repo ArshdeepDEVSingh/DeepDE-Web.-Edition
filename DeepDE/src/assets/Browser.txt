@@ -1,0 +1,32 @@
+Browser
+
+Calculator
+Calendar
+Camera
+Clock
+
+Drive
+
+Files
+
+Google Workspace
+
+Lunacy
+
+Microsoft Office
+
+Notepad
+Notes
+Notion
+
+Obsidian
+
+Python
+
+Todo
+
+Weather
+
+Visual Studio Code
+
+Youtube
